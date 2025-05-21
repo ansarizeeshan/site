@@ -289,6 +289,7 @@
           },
           "html_FkY63X": {
             "type": "html",
+            "disabled": true,
             "settings": {
               "html_content": "<div style=\"padding-top:10px; padding-bottom:15px; text-align:center;\">\n<p style=\"font-size:12px;\">These statements have not been evaluated by the Food and Drug Administration.\n<br>These products are not intended to diagnose treat, cure or prevent any disease.</p>\n\n<a href=\"/pages/store-policy\" title=\"Store Policy\" style=\"font-size:12px;\">Store Policy</a>  -  <a href=\"/pages/privacy-policy\" title=\"Privacy Policy\" style=\"font-size:12px;\">Privacy Policy</a>  -  <a href=\"/pages/shipping-policy\" title=\"Shipping Policy\" style=\"font-size:12px;\">Shipping Policy</a>\n</div>",
               "hidden_mobile": false
@@ -2089,9 +2090,7 @@
       "1793219247286972479": {
         "type": "shopify://apps/searchpie-seo-speed/blocks/sb-snippets/29f6c508-9bb9-4e93-9f98-b637b62f3552",
         "disabled": false,
-        "settings": {
-          "review_app": "spr"
-        }
+        "settings": {}
       },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
